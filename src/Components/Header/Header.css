@@ -1,0 +1,13 @@
+.mainHeader {
+  background-color: gainsboro;
+  height: 50px;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.dropHeader {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
